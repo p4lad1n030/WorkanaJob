@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.sideBar{
+  text-align: center;
+  margin: 0;
+  padding: 5px;
+  min-width: 22px;
+  height: 100vh; 
+  position: fixed;
+  overflow: scroll;
+  background-color: #343A40;
+}
+.mgr {
+  margin-right: 23px!important;
+}
+.fntS {
+  font-size: 23px;
+}
+
+/*configurações de espera para possivel conteudo  */
+/* .content {
+  height: 100vh;
+  overflow: scroll;
+  padding: 25px;
+  border: none;
+}
+.content::-webkit-scrollbar {
+  display: none;
+} */
